@@ -8,17 +8,22 @@ import { CourseComponent } from './course/course.component';
 import { CoursesService } from './courses.service';
 import { AuthorComponent } from './author/author.component';
 import { AuthorService } from './author.service';
+import { FormsModule } from '@angular/forms';
+import { SummaryPipe } from './summary.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
     CoursesComponent,
     CourseComponent,
-    AuthorComponent
+    AuthorComponent,
+    SummaryPipe
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
+
   ],
   providers: [
     CoursesService,
