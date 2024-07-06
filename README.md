@@ -32,3 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 2. Templates
 3. Directives (\*ngFor)
 4. Services , creating it using Angular CLI
+
+## LINK FOR DOCUMENT TO REFER:
+
+https://docs.google.com/document/d/1ZfDXXY5aN4CYoRTL2BbWumBTD0LMEa0u93fK987Lv-w/edit
