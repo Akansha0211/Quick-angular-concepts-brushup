@@ -10,6 +10,7 @@ import { AuthorComponent } from './author/author.component';
 import { AuthorService } from './author.service';
 import { FormsModule } from '@angular/forms';
 import { SummaryPipe } from './summary.pipe';
+import { FavoriteComponent } from './favorite/favorite.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { SummaryPipe } from './summary.pipe';
     CoursesComponent,
     CourseComponent,
     AuthorComponent,
-    SummaryPipe
+    SummaryPipe,
+    FavoriteComponent
   ],
   imports: [
     BrowserModule,

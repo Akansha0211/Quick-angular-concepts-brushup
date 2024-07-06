@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 1. Components ; creating using angular cli
 2. Templates
-3. Directives (\*ngFor)
+3. Directives (\*ngFor)74
 4. Services , creating it using Angular CLI
 
 ## LINK FOR DOCUMENT TO REFER:
